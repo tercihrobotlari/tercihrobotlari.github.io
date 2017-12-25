@@ -1,2 +1,7 @@
 # tercihrobotlari.github.io
-official site
+
+tercihrobotlari.com ana sayfası çalışması.
+
+bir grup çalışmasıdır. 
+
+şu an için katılım kabul edilmemektedir. 
