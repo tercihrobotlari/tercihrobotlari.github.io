@@ -1,0 +1,12 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url("https://i.hizliresim.com/vJOL9p.jpg");
+    background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
